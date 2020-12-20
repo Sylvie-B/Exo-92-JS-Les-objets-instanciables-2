@@ -33,8 +33,23 @@ let infos = document.createElement('div');
 
 for( let persos of table){
 
-    infos.innerHTML += persos.name + " " + persos.surname + " " + persos.age + " " + persos.ville +
-        " " + persos.getAll() + "<br>";
+    infos.innerHTML += persos.name + " " + persos.surname + " " + persos.age + " " + persos.ville + "<br>" + " " + persos.getAll() + '<br>';
     document.body.appendChild(infos);
+}
+
+let classe = {
+    mere : sylvie,
+    fille : emilie,
+    soeur : corinne,
+    beauFrere : eric,
+    niece : fred
+
+}
+
+let infos2 = document.createElement('div');
+
+for (let member in classe){
+    infos2.innerHTML += classe[member].name + " " + classe[member].surname + " " + classe[member].age + " " + classe[member].ville + "<br>" + " " + classe[member].getAll() + '<br>';
+    document.body.appendChild(infos2);
 }
 

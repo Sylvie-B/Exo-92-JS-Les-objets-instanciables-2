@@ -68,6 +68,7 @@
       <updated>1608203917368</updated>
       <workItem from="1608203922172" duration="1568000" />
       <workItem from="1608395108649" duration="3050000" />
+      <workItem from="1608472984219" duration="2146000" />
     </task>
     <task id="LOCAL-00001" summary="objet personne">
       <created>1608395302978</created>
@@ -76,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608395302978</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fonction constructeur et tableau">
+      <created>1608473017153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608473017153</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,13 +104,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="objet personne" />
-    <option name="LAST_COMMIT_MESSAGE" value="objet personne" />
+    <MESSAGE value="fonction constructeur et tableau" />
+    <option name="LAST_COMMIT_MESSAGE" value="fonction constructeur et tableau" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1608395304609">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1608473018938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.53.1280.984@0.0.1536.824" timestamp="1608395304609" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.53.1280.984@0.0.1536.824" timestamp="1608473018938" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608395981050">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
